@@ -1,7 +1,5 @@
 .container ul.items {
-  list-style-type: none;
-  padding: 0;
-  margin: 0; }
+  list-style-type: none; }
   .container ul.items li {
     border-bottom: 1px solid #cbcbcb; }
     .container ul.items li h4 {

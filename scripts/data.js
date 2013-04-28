@@ -26,15 +26,15 @@ var data =
 				"enrolled":true
 			},
 			{
-				"name":"Science Books",
+				"name":"Science",
 				"kind":"Remedial",
 				"value":1,
 				"people":18,
 				"enrolled":false
 			},
 			{
-				"name":"French I Took",
-				"kind":"Self Study",
+				"name":"French",
+				"kind":"Independent Study",
 				"value":3,
 				"people":'',
 				"enrolled":true
