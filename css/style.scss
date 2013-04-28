@@ -1,0 +1,23 @@
+.container {
+	ul.items {
+		list-style-type:none;
+		padding: 0;
+		margin: 0;
+		li {
+			border-bottom: 1px solid #cbcbcb;
+			h4 {
+				font-size: 1.25em;
+				line-height: 1em;
+			}
+			span {
+				color:gray;
+			}
+		}
+	}
+	select {
+		width: auto;
+		height: auto;
+		border: auto;
+		padding: auto;
+	}
+}
