@@ -15,7 +15,7 @@ requirejs.config({
 });
 
 require(["jquery", "underscore", "bootstrap", "data", "pageHeader", "items"], function($) {
-	J = jQuery.noConflict();
+	var J = jQuery.noConflict();
 	
 	var page_header = _.template( _pageHeader, data.user );
 	J('.container').prepend(page_header);
